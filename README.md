@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm VINAY</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay828764&label=Profile%20views&color=0e75b6&style=flat" alt="vinay828764" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay828764" alt="vinay828764" /></a> </p>
 
-- 🔭 I’m currently working on [GYM Website](https://github.com/Vinay828764/GYM-Website)
+- 🔭 I’m currently working on [GYM APP](https://github.com/Vinay828764/GYM-Websie)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **App Development **
 
-- 💬 Ask me about **React, React-native, Nodejs, MongoDB**
+- 💬 Ask me about ** Android , kotin , React-native, Nodejs, MongoDB**
 
 - 📫 How to reach me **vinaytechnology8287@gmail.com,thakur828764@gmail.com**
 
-- 📄 Know about my experiences [1.5 years Experience in Web Development](1.5 years Experience in Web Development)
+- 📄 Know about my experiences and cuurently learnig new skills as a Android developer [1.5 years Experience in Web Development].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
